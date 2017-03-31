@@ -1,7 +1,7 @@
 #  My portfolio
 
 ### Some of the  projects I've worked on include:
-- **Forecasting S&P500 sector returns with macroeconomic data in R**  [Link](https://github.com/Blackkadder/S-P500-sector-returns-forecast-using-macroeconomics)
+- **Forecasting S&P500 sector returns with macroeconomic data in R** | [Link](https://github.com/Blackkadder/S-P500-sector-returns-forecast-using-macroeconomics)
 - **Time series analysis in python** | [Link](https://github.com/Blackkadder/Time-series)
 - **Pulling FRED data with fredapi in python** | [Link](https://github.com/Blackkadder/FRED-data-pull)
 - **Cointegration and GARCH in R** | [Link](https://github.com/Blackkadder/Cointegration-GARCH-for-class-in-R)
